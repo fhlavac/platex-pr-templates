@@ -20,7 +20,7 @@ https://issues.redhat.com/browse/RHCLOUD-XXXXX
   - [ ] Test
   - [ ] E2E
 - [ ] UI best practices adhered to <!-- TODO: add link; responsiveness, input sanitization, prioritizing patternfly and FEC, feature gating, etc -->
-- [ ] Commits Squashed (2-3 commits per PR maximum, 1 is ideal)
+- [ ] Commits squashed (2-3 commits per PR maximum, 1 is ideal)
 - [ ] Commit(s) have meaningful message
 ##
 - [ ] _(Optional) Release: Hold merge - not ready to be deployed to stage_
